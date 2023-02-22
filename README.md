@@ -1,5 +1,15 @@
 ### Hi there 👋
+![](https://github.com/AlekParkh/AlekParkh/blob/main/bugs-bunny-software.gif)
 
+My name is Alek.
+Something about me
+
+### My CV
+---------------------------------------------------
+There is the link on my [CV](https://github.com/).
+
+### Portfolio
+---------------------------------------------------
 <!--
 **AlekParkh/AlekParkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
